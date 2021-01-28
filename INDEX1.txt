@@ -1,0 +1,61 @@
+<html>
+<head>
+
+<title>Saydimx</title>
+
+</head>
+<center><body background="C:\Users\Esthela\Desktop\comercio\img\ACU.jpg" bgcolor="fffefe"><img src="C:\Users\Esthela\Desktop\comercio\img\logo.png" height="170px" windth="170px"></center>
+
+
+<center><h1><font color="524656" face="Lucida Calligraphy"<p>Saydimx</font></p></h1></center>
+<center><h1><font color="eb7b59"><p>¿Quienes somos?</font></p></h1></center>
+<center><p>Somos una empresa mexicana dedicada a la distribución y venta de accesorios y cosmeticos.</p></center>
+<center><p>Trabajamos o sin descanso para ofrecer a la mujer de hoy una colección siempre renovada de accesorios de moda,
+ inspirados en las últimas tendencias a nivel global, con atención al diseño y a la calidad del producto, y con precios accesibles.</p></center>
+
+<center><img src="C:\Users\Esthela\Desktop\comercio\img\saydi.jpg" height="300px" windth="250px"></center>
+
+<p><center><table border="0" width="85%" bgcolor="ebe3ce"></p>
+<tr> 
+<td colspan="2"><center><font face="verdana"><h3>Contamos con:</h3></font><center</center></td>
+</tr>
+<tr>
+<td><center><font color="262223" face="Segoe Print"<p>Maquillaje</p></font></center></td>
+<td><center><font color="262223" face="Segoe Print"<p>Bisuteria</p></font></center></td>
+</tr>
+<tr>
+<td><center><img src="C:\Users\Esthela\Desktop\comercio\img\dy.jpg" height="200px" windth="200px"></center></td>
+<td><center><img src="C:\Users\Esthela\Desktop\comercio\img\jewely.jpg" height="200px" windth="200px"></center></td>
+</table><c/center>
+
+<center><h1><font color="<font color="524656" face="Lucida Calligraphy"> <html> es el leguaje marcado que nos permite indicar la estructura del documento.
+<p> <head> es una de las 2 partes de la estructura del documento en la cual reside la informacion.
+<p> <title> Es el titulo del documento.
+<p> <body background> es un atributo utlizado para especificar una ruta (URL) de la imagen
+<p> <center> es utilizado para centrar imagenes y textos
+<p> <font> es utlizado para modificar el tamaño, la fuete y el color del texto
+<p> <img src> representa una imagen en el documento.
+<p> <h1> indica la cabecera mas importante de una pagina
+<p> <h2>,<h3>,etc.Son indicadore de hipertextos de acuerdo a la importacia del texto
+<p> <p> Es indicador de un parrafo diferente.
+<p> <td> Es la que representa una celda de datos de una tabla.
+<p> <tr> Es aquella que define un fila dentro de la tabla.
+<p> <a hreF> Se utiliza para indicar la URLa la que apunta el enlace.
+<p>  "/" antes de cada etiqueta para indicar el fin o que ha terminado el efecto que queriamos presentar.
+</center></h1></font>
+
+<center>
+<p>
+<p>
+<a href="index.html">Inicio</a> -
+<a href="nosotros.html">Nosotros<a/> -
+<a href="servicios.html">Servicios</a> -
+<a href="contactanos.html">Contactanos</a>
+</center>
+</p>
+</p>
+
+
+</body>
+
+</html>
